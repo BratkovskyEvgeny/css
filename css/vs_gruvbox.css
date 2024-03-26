@@ -4,16 +4,16 @@
     --header1_color: #204709;
     --header2_color: #42841F;
     --header3_color: #6EAF4B;
-    --keyword_color: #cc241d; /* import */
-    --string_color: #79740e;
-    --number_color: #b16286;
-    --def_color: #689d6a; /* class name */
-    --property_color: #458588; /* python properties */
-    --builtin_color: #689d6a;
-    --comment_color: #9f9f9f;
-    --comment_color_2: #458588; /* equals sign */
+    --keyword_color: #1dccc9; /* import */##cc241d
+    --string_color: #79600e;   ##79740e
+    --number_color: #b16286;   #    #689d6a
+    --def_color: #2fa2a8; /* class name */#299138
+    --property_color: #3a2ca3; /* python properties */
+    --builtin_color: #36a33a;
+    --comment_color: #2c79b8;
+    --comment_color_2: #218dbf; /* equals sign */
     --operator_color: #a221f2;
-    --font_color: #3c3836; /* general font */
+    --font_color: #a67c1c; /* general font */
     --variable2_color: #b16286; /*self keyworda */
     --box_color: #fffdee66;
 }
